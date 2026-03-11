@@ -1,0 +1,127 @@
+[
+    {
+        "label": "Wheat Rust (Disease)",
+        "description": "Wheat leaves showing reddish-brown pustules or orange dust-like spores indicating leaf rust.",
+        "action": "Rust detected. Apply fungicides like tebuconazole and plant resistant varieties."
+    },
+    {
+        "label": "Healthy Wheat",
+        "description": "Green, vibrant healthy wheat crop with no signs of discoloration or spots.",
+        "action": "Crop looks healthy. Continue standard irrigation and fertilization."
+    },
+    {
+        "label": "Rice Blast (Disease)",
+        "description": "Rice leaves with diamond-shaped lesions, gray centers, and brown borders.",
+        "action": "Blast symptoms. Improve water management and avoid excessive nitrogen."
+    },
+    {
+        "label": "Healthy Rice",
+        "description": "Healthy green rice paddy field with no visible lesions.",
+        "action": "Healthy crop. Maintain water levels."
+    },
+    {
+        "label": "Corn Leaf Blight",
+        "description": "Corn leaves with long, cigar-shaped grey-green lesions.",
+        "action": "Blight detected. Rotate crops and use resistant hybrids."
+    },
+    {
+        "label": "Tomato Early Blight",
+        "description": "Tomato lower leaves with concentric ring spots (bullseye pattern) and yellowing.",
+        "action": "Early blight. Remove infected leaves and apply copper-based fungicide."
+    },
+    {
+        "label": "Potato Late Blight",
+        "description": "Potato leaves with dark water-soaked spots and white fungal growth on undersides.",
+        "action": "Late blight is serious. Apply fungicide immediately and destroy infected haulms."
+    },
+    {
+        "label": "Cotton Bollworm Damage",
+        "description": "Cotton bolls with visible holes or presence of caterpillar/worm.",
+        "action": "Bollworm damage. Use pheromone traps and biological control like Trichogramma."
+    },
+    {
+        "label": "General Pest Damage (Leaves)",
+        "description": "Leaves of crop showing chewed holes, scalloped edges, or skeletonization.",
+        "action": "Pest activity visible. Inspect for insects and apply neem oil."
+    },
+    {
+        "label": "Nutrient Deficiency (Nitrogen)",
+        "description": "Plant leaves turning yellow overall, starting from older leaves (chlorosis).",
+        "action": "Nitrogen deficiency likely. Apply urea or compost."
+    },
+    {
+        "label": "Dry Soil / Drought",
+        "description": "Cracked dry soil or wilting crop plants due to lack of water.",
+        "action": "Water stress detected. Irrigate immediately."
+    },
+    {
+        "label": "Chilli Leaf Curl",
+        "description": "Curled, thickened and deformed leaves of chilli plant, often looking like a boat shape or upward/downward curl.",
+        "action": "Leaf curl detected. Use Neem oil, Fipronil or Acephate to control Thrips and Mites."
+    },
+    {
+        "label": "Groundnut Tikka Leaf Spot",
+        "description": "Dark brown or black circular spots on groundnut leaves, often surrounded by yellow halos.",
+        "action": "Tikka disease detected. Apply Carbendazim or Mancozeb fungicide and ensure crop rotation."
+    },
+    {
+        "label": "Rice Bacterial Leaf Blight",
+        "description": "Paddy leaves with yellow to white wavy stripes or streaks along the leaf margins, appearing partially dried.",
+        "action": "Bacterial Blight. Reduce nitrogen use, drain excess water, and spray Streptocycline with Copper Oxychloride."
+    },
+    {
+        "label": "Healthy Chilli",
+        "description": "Strong upright chilli plant with vibrant green leaves, blooming white flowers or glossy green/red fruits.",
+        "action": "Chilli plant looks healthy. Maintain regular soil moisture and organic mulching."
+    },
+    {
+        "label": "Sugarcane Red Rot",
+        "description": "Sugarcane stems or leaves showing internal red discoloration with white cross-wise patches when cut.",
+        "action": "Serious Red Rot infection. Remove infected clumps immediately and use healthy seed material for next season."
+    },
+    {
+        "label": "Rice Stem Borer (Dead Heart)",
+        "description": "Central leaf whorl of paddy dried up and can be easily pulled out; base of the shoot may show borer exit holes.",
+        "action": "Stem Borer detected. Use pheromone traps (5/acre) or apply Cartap Hydrochloride granules in soil."
+    },
+    {
+        "label": "Cotton Pink Bollworm (Rosette Flower)",
+        "description": "Cotton flowers that fail to open properly and look like a rosette shape; bolls showing internal staining or entry holes.",
+        "action": "Pink Bollworm attack. Install pheromone traps and spray Profenofos or Emamectin Benzoate if threshold is reached."
+    },
+    {
+        "label": "Maize Fall Armyworm",
+        "description": "Large ragged holes in maize leaves, presence of dark green frass (excreta) in the whorl, and striped caterpillars.",
+        "action": "Fall Armyworm detected. Apply Neem cake in whorls or spray Spinetoram/Chlorantraniliprole for control."
+    },
+    {
+        "label": "Rice Sheath Blight",
+        "description": "Large greenish-grey lesions on rice leaf sheaths with purple-brown borders, resembling snakeskin.",
+        "action": "Sheath Blight detected. Avoid excessive nitrogen fertilizer and spray Hexaconazole or Validamycin."
+    },
+    {
+        "label": "Banana Bunchy Top",
+        "description": "Stunted banana plant with short, narrow, crowded leaves at the top giving a 'bunched' look with yellow margins.",
+        "action": "Bunchy Top Virus. Rogue out (destroy) infected plants immediately to prevent spread and control aphids."
+    },
+    {
+        "label": "Chilli Fruit Rot (Anthracnose)",
+        "description": "Sunken, circular or necrotic spots on chilli fruits with black dot-like structures (acervuli).",
+        "action": "Fruit Rot. Spray Carbendazim or Mancozeb and avoid overhead irrigation during fruiting."
+    },
+    {
+        "label": "Healthy Maize",
+        "description": "Broad, green leaves of maize plant with no tearing or frass; sturdy stem and healthy developing cobs.",
+        "action": "Maize crop is healthy. Ensure balanced NPK application and monitor for FAW scouting."
+    },
+    {
+        "label": "Healthy Cotton",
+        "description": "Green, heart-shaped cotton leaves and healthy white/pink flowers with no signs of sucking pest damage.",
+        "action": "Cotton crop looks healthy. Maintain proper drainage and continue scouting for sucking pests."
+    },
+    {
+        "label": "Healthy Sugarcane",
+        "description": "Tall Sugarcane plants with vibrant green leaves and strong, uniform stalks with no internal discoloration.",
+        "action": "Sugarcane is healthy. Ensure timely earthing-up and nitrogen top-dressing."
+    }
+]

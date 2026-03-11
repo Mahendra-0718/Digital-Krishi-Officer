@@ -1,0 +1,1 @@
+[Architecture Diagram Placeholder: React Frontend -> FastAPI -> (Translations, RAG+FAISS, Ollama LLM)]
