@@ -1,4 +1,5 @@
-digital-krishi-officer-kappa.vercel.app
+Live Demo: [Open Project](https://digital-krishi-officer-kappa.vercel.app)
+
 🌾 AGRIVERSE-24-7 | AI-Powered Agricultural Advisory System
 
 AGRIVERSE-24-7 is an AI-driven agricultural advisory platform designed to support farmers in rural and remote regions by providing accurate, localized, and real-time farming guidance. The system overcomes language barriers and limited internet access by using multilingual, multimodal, and offline-capable AI.
